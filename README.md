@@ -1,4 +1,4 @@
-##Forecasting with fbProphet
+## Forecasting with fbProphet
 I prepared, analyzed and vidualized financial data and the change of that with user data (mined the Google search traffic data). I used time series model to forecast sale and price in different fincancial datasets.
 I worked in Colab environment. Please find the link below:
 https://colab.research.google.com/drive/1xOkeLHQcVrwSsDRP430uuG3s_ZcsMszx?usp=sharing
